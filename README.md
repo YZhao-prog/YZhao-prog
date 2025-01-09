@@ -12,9 +12,6 @@
   <a href="https://github.com/YZhao-prog"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/YZhao-prog?style=social)](https://github.com/YZhao-prog)
-![Profile Views](https://komarev.com/ghpvc/?username=YZhao-prog&color=blueviolet)
-
 </div>
 
 ## 🎯 About Me  

@@ -40,7 +40,7 @@
 
 ## 🚀 Projects  
 
-### [Rust SQL Database](https://github.com/YZhao-prog/Rust-SQL-Database) | Rust, SQL | Sep 2024 – Present  
+### [Rust SQL Database](https://github.com/YZhao-prog/SharkDB) | Rust, SQL | Sep 2024 – Present  
 - **Lexer and Parser**: Developed an integrated lexer and parser to tokenize SQL statements and generate abstract syntax trees (ASTs).  
 - **Query Planner and Executor**: Designed a query planner that transformed ASTs into optimized physical execution plans and implemented a multi-stage executor for efficient query execution.  
 - **Storage Mechanisms**: Leveraged Rust’s `BTreeMap` for in-memory storage and implemented a Bitcask-based disk storage system for persistence, ensuring high-performance data insertion and retrieval.  

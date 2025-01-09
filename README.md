@@ -4,6 +4,7 @@
 ### Master's Student in Information Systems | Software Engineer  
 
 ![](https://img.shields.io/badge/Focus-Scalable_Systems_and_Databases-BE2EDD)
+![](https://img.shields.io/badge/Focus-Full_Stack_Development-BE2EDD)  
 ![](https://img.shields.io/badge/Role-Software_Developer-20B2AA)
 
 <p>

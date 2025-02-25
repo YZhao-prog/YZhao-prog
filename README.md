@@ -61,7 +61,7 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YZhao-prog&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="YZhao's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YZhao-prog&show_icons=true&theme=radical&count_private=true" alt="YZhao's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YZhao-prog&layout=compact&langs_count=8&theme=radical&hide=html,css" alt="Top Languages" />
 </div>
 

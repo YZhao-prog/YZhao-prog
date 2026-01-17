@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I’m Yang Zhao  
-### ex-Software Engineer Intern @ Splunk | MS in Information Systems @ Northeastern  
+### ex-Software Engineer Intern @ Splunk | Backend / Distributed Systems Engineer  
 
 ![](https://img.shields.io/badge/Focus-Distributed_Systems_and_Databases-BE2EDD)
 ![](https://img.shields.io/badge/Focus-Backend_and_System_Programming-BE2EDD)
@@ -25,64 +25,80 @@
 
 ## 🧭 About Me
 
-- Backend-focused engineer interested in **distributed systems, databases, and performance-critical software**.
-- **Former Software Engineer Intern at Splunk**, working on reliability and scalability of large-scale distributed platforms.
-- Currently pursuing a **Master’s in Information Systems at Northeastern University**.
+I am a backend-focused software engineer with a strong interest in **distributed systems, databases, and reliability engineering**.
+
+- Former **Software Engineer Intern at Splunk**, working on scalability, reliability, and storage-related components in distributed platforms.
+- Currently pursuing a **Master’s degree at Northeastern University**.
+- Enjoy working close to **storage, consistency, concurrency, and system performance**.
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Technical Focus
 
-**Languages:** C, C++, Rust, Java, Python, JavaScript, SQL  
-**Backend & Systems:** gRPC, REST, Spring Boot, Node.js, Linux  
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis, RocksDB  
-**Distributed Systems:** MVCC, LSM-tree, Snapshot Isolation, Raft  
-**DevOps:** Git, Docker, Kubernetes
+I am particularly interested in problems related to:
+
+- Distributed consensus and replication (**Raft**, leader election, log replication)
+- Strong consistency and concurrency control (**Linearizability**, **MVCC**, Snapshot Isolation)
+- Storage engines and data layout (**LSM-tree**, compaction, indexing)
+- Scalable backend systems and fault tolerance
+- Observability and operational reliability in distributed systems
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Projects
+
+### **Distributed Fault-Tolerant Storage Systems**  
+*Golang · Raft · RPC · Linearizability*
+
+- Implemented **Raft consensus** with persistence, snapshotting, and crash recovery.
+- Built a **fault-tolerant Key/Value store** providing linearizable APIs.
+- Designed a **sharded KV system** with dynamic reconfiguration and online shard migration.
+- Implemented client deduplication and at-most-once semantics.
+- Built a simple **MapReduce framework** with centralized coordination and fault recovery.
+
+---
 
 ### **Distributed SQL Database**  
-*Rust · SQL · Redis · RocksDB · MVCC · LSM-tree*
+*Rust · SQL · RocksDB · Redis · MVCC · LSM-tree · gRPC*
 
-A distributed SQL database built from scratch, focusing on query processing, storage engines,
-and transactional consistency.
-
-- Engineered a SQL parser and lexer using `nom` parser combinators, supporting complex nested queries
-  with robust error recovery.
-- Implemented a cost-based query optimizer with dynamic statistics collection, enabling join
-  reordering and predicate pushdown.
-- Developed a parallel execution engine to improve throughput for analytical workloads.
-- Built a hybrid storage layer using RocksDB for persistence and Redis for caching.
-- Implemented a custom LSM-tree with compaction strategies and Bloom filters for efficient range scans.
-- Designed an MVCC system with snapshot isolation and optimistic concurrency control.
-- Implemented a gRPC-based replication protocol using the Raft consensus algorithm.
-
----
-
-### **RISC-V Operating System Kernel**  
-*C · C++ · RISC-V · Assembly*
-
-An educational operating system kernel implementing core OS subsystems on RISC-V.
-
-- Developed a virtual memory subsystem with multi-level page tables and TLB support.
-- Implemented copy-on-write and lazy allocation to reduce memory usage and improve `fork()` performance.
-- Designed a priority-based O(1) scheduler with custom coroutine context switching.
-- Reduced lock contention using fine-grained read-write locks under multi-process workloads.
-- Enhanced the file system with extents and indirect blocks to support large files.
-- Implemented zero-copy `mmap`, symbolic links, and optimized file I/O paths.
-- Built precise interrupt handling with nested interrupt support and timer-based system calls.
+- Designed a distributed SQL engine focusing on **query processing** and **transactional consistency**.
+- Implemented a cost-based optimizer, parallel execution engine, and predicate pushdown.
+- Built a hybrid storage layer with RocksDB and Redis.
+- Implemented MVCC with snapshot isolation and Raft-based replication.
 
 ---
 
 ### **High-Performance Database Engine**  
 *C++ · SQL · MVCC*
 
-A single-node database engine focusing on concurrency control, indexing, and query execution.
+- Built a single-node database engine focusing on **concurrency control** and **query execution**.
+- Implemented buffer pool management, B+ tree indexes, and vectorized execution.
+- Designed locking and deadlock detection mechanisms.
 
-- Engineered a concurrent buffer pool with scalable hash tables and LRU-K eviction.
-- Implemented B+ tree indexes with fine-grained read-write locks for concurrent access.
-- Built a vectorized query execution engine supporting joins and aggregations.
-- Designed a distributed lock manager with deadlock detection.
-- Implemented MVCC with multiple isolation levels and hierarchical intention locks.
+---
+
+## 🔍 What I’m Currently Exploring
+
+- Trade-offs between **strong consistency and performance** in real-world distributed systems
+- Log-structured storage vs. page-oriented storage
+- Observability patterns for storage and data platforms
+- Failure modes in replicated state machines
+
+---
+
+## 🧠 Engineering Notes
+
+I value systems that are:
+
+- **Correct before fast**
+- Explicit about **failure models**
+- Designed with **operability and debuggability** in mind
+
+I enjoy reading papers, implementing ideas from scratch, and validating them through experiments.
+
+---
+
+## 📫 How to Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/yang-zhao-48b12431a  
+- Email: zhao.yang11@northeastern.edu

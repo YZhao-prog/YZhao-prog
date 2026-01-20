@@ -45,47 +45,6 @@ I am particularly interested in problems related to:
 
 ---
 
-## 🚀 Selected Projects
-
-### **Distributed Fault-Tolerant Storage Systems**  
-*Golang · Raft · RPC · Linearizability*
-
-- Implemented **Raft consensus** with persistence, snapshotting, and crash recovery.
-- Built a **fault-tolerant Key/Value store** providing linearizable APIs.
-- Designed a **sharded KV system** with dynamic reconfiguration and online shard migration.
-- Implemented client deduplication and at-most-once semantics.
-- Built a simple **MapReduce framework** with centralized coordination and fault recovery.
-
----
-
-### **Distributed SQL Database**  
-*Rust · SQL · RocksDB · Redis · MVCC · LSM-tree · gRPC*
-
-- Designed a distributed SQL engine focusing on **query processing** and **transactional consistency**.
-- Implemented a cost-based optimizer, parallel execution engine, and predicate pushdown.
-- Built a hybrid storage layer with RocksDB and Redis.
-- Implemented MVCC with snapshot isolation and Raft-based replication.
-
----
-
-### **High-Performance Database Engine**  
-*C++ · SQL · MVCC*
-
-- Built a single-node database engine focusing on **concurrency control** and **query execution**.
-- Implemented buffer pool management, B+ tree indexes, and vectorized execution.
-- Designed locking and deadlock detection mechanisms.
-
----
-
-## 🔍 What I’m Currently Exploring
-
-- Trade-offs between **strong consistency and performance** in real-world distributed systems
-- Log-structured storage vs. page-oriented storage
-- Observability patterns for storage and data platforms
-- Failure modes in replicated state machines
-
----
-
 ## 🧠 Engineering Notes
 
 I value systems that are:

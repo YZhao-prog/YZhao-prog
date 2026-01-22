@@ -1,29 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE2EDD,100:20B2AA&height=120&section=header&text=Yang%20Zhao&fontSize=38&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE2EDD,100:20B2AA&height=110&section=header&text=Yang%20Zhao&fontSize=36&fontAlignY=35"/>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=20B2AA&center=true&vCenter=true&width=520&lines=Backend+%2F+Distributed+Systems+Engineer;ex-Software+Engineer+Intern+%40+Splunk" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=20B2AA&center=true&vCenter=true&width=520&lines=Backend+%2F+Distributed+Systems+Engineer;ex-Software+Engineer+Intern+%40+Splunk" />
 </h3>
-
-![](https://img.shields.io/badge/Focus-Distributed_Systems_and_Databases-BE2EDD)
-![](https://img.shields.io/badge/Focus-Backend_and_System_Programming-BE2EDD)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yang-zhao-48b12431a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zhao.yang11@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-4A4A4A?style=for-the-badge&logo=maildotru&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Email-4A4A4A?style=for-the-badge&logo=maildotru&logoColor=white" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:yangzhao200124@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/YZhao-prog">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   </a>
 </p>
 
@@ -38,18 +35,6 @@ I am a backend-focused software engineer with a strong interest in **distributed
 - Former **Software Engineer Intern at Splunk**, working on scalability, reliability, and storage-related components in large-scale distributed platforms.
 - Currently pursuing a **Master’s degree at Northeastern University**.
 - Enjoy working close to **storage engines, consistency protocols, concurrency, and system performance**.
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YZhao-prog&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YZhao-prog&layout=compact&theme=transparent&hide_border=true" height="165"/>
-
-</div>
 
 ---
 
@@ -75,10 +60,15 @@ I enjoy reading systems papers, implementing ideas from scratch, and validating 
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
-- **LinkedIn**: https://www.linkedin.com/in/yang-zhao-48b12431a  
-- **Email**: zhao.yang11@northeastern.edu
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YZhao-prog&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YZhao-prog&layout=compact&theme=transparent&hide_border=true" height="160"/>
+
+</div>
 
 ---
 

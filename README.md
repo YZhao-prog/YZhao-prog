@@ -27,9 +27,21 @@
 
 I am a backend-focused software engineer with a strong interest in **distributed systems, databases, and reliability engineering**.
 
-- Former **Software Engineer Intern at Splunk**, working on scalability, reliability, and storage-related components in distributed platforms.
+- Former **Software Engineer Intern at Splunk**, working on scalability, reliability, and storage-related components in large-scale distributed platforms.
 - Currently pursuing a **Master’s degree at Northeastern University**.
-- Enjoy working close to **storage, consistency, concurrency, and system performance**.
+- Enjoy working close to **storage engines, consistency protocols, concurrency, and system performance**.
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YZhao-prog&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YZhao-prog&layout=compact&theme=transparent&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
@@ -53,11 +65,11 @@ I value systems that are:
 - Explicit about **failure models**
 - Designed with **operability and debuggability** in mind
 
-I enjoy reading papers, implementing ideas from scratch, and validating them through experiments.
+I enjoy reading systems papers, implementing ideas from scratch, and validating designs through experiments and benchmarks.
 
 ---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/yang-zhao-48b12431a  
-- Email: zhao.yang11@northeastern.edu
+- **LinkedIn**: https://www.linkedin.com/in/yang-zhao-48b12431a  
+- **Email**: zhao.yang11@northeastern.edu

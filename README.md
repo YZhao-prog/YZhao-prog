@@ -1,7 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I’m Yang Zhao  
-### ex-Software Engineer Intern @ Splunk | Backend / Distributed Systems Engineer  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE2EDD,100:20B2AA&height=140&section=header&text=Yang%20Zhao&fontSize=40&fontAlignY=35&animation=twinkling"/>
+
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=20B2AA&center=true&vCenter=true&width=620&lines=Backend+%2F+Distributed+Systems+Engineer;ex-Software+Engineer+Intern+%40+Splunk;Focus%3A+Consistency%2C+Storage%2C+Reliability" />
+</h3>
 
 ![](https://img.shields.io/badge/Focus-Distributed_Systems_and_Databases-BE2EDD)
 ![](https://img.shields.io/badge/Focus-Backend_and_System_Programming-BE2EDD)
@@ -47,13 +50,11 @@ I am a backend-focused software engineer with a strong interest in **distributed
 
 ## 🎯 Technical Focus
 
-I am particularly interested in problems related to:
-
 - Distributed consensus and replication (**Raft**, leader election, log replication)
 - Strong consistency and concurrency control (**Linearizability**, **MVCC**, Snapshot Isolation)
 - Storage engines and data layout (**LSM-tree**, compaction, indexing)
 - Scalable backend systems and fault tolerance
-- Observability and operational reliability in distributed systems
+- Observability and operational reliability
 
 ---
 

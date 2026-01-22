@@ -15,7 +15,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zhao.yang11@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" height="32"/>
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=maildotru&logoColor=white" height="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/YZhao-prog">

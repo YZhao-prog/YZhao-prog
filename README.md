@@ -74,3 +74,11 @@ I enjoy reading systems papers, implementing ideas from scratch, and validating 
 
 - **LinkedIn**: https://www.linkedin.com/in/yang-zhao-48b12431a  
 - **Email**: zhao.yang11@northeastern.edu
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/YZhao-prog/YZhao-prog/blob/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+</p>

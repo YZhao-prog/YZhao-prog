@@ -15,11 +15,15 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zhao.yang11@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=maildotru&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Email-4A4A4A?style=for-the-badge&logo=maildotru&logoColor=white" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yangzhao200124@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/YZhao-prog">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 

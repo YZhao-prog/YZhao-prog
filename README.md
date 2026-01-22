@@ -1,24 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE2EDD,100:20B2AA&height=140&section=header&text=Yang%20Zhao&fontSize=40&fontAlignY=35&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE2EDD,100:20B2AA&height=120&section=header&text=Yang%20Zhao&fontSize=38&fontAlignY=35"/>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=20B2AA&center=true&vCenter=true&width=620&lines=Backend+%2F+Distributed+Systems+Engineer;ex-Software+Engineer+Intern+%40+Splunk;Focus%3A+Consistency%2C+Storage%2C+Reliability" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=20B2AA&center=true&vCenter=true&width=520&lines=Backend+%2F+Distributed+Systems+Engineer;ex-Software+Engineer+Intern+%40+Splunk" />
 </h3>
 
 ![](https://img.shields.io/badge/Focus-Distributed_Systems_and_Databases-BE2EDD)
 ![](https://img.shields.io/badge/Focus-Backend_and_System_Programming-BE2EDD)
-![](https://img.shields.io/badge/Role-Software_Engineer-20B2AA)
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/yang-zhao-48b12431a/">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:zhao.yang11@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" height="32"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/YZhao-prog">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 

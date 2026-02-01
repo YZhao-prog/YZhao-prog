@@ -27,33 +27,22 @@ Storage+%7C+Consistency+%7C+Reliability" />
 
 ---
 
-## 🧭 About Me
+## About Me
 
-Hi 👋 I’m Yang — a backend-focused engineer who enjoys working close to the **core of distributed systems**.
+Backend-focused engineer with hands-on experience in **production distributed systems**.
 
-- Former **Software Engineer Intern at Splunk**, where I worked on **storage pipelines, artifact lifecycle management, and cross-node consistency** in large-scale distributed search clusters.
-- Currently pursuing a **Master’s degree at Northeastern University**.
-- I enjoy building systems where **correctness matters more than demos**, and where failures are expected, observable, and recoverable.
-
-I’m especially interested in how systems behave **under load, partial failures, and real-world constraints** — not just when everything goes right.
+- Former **Software Engineer Intern at Splunk**, working on storage pipelines and cross-node consistency in large-scale search clusters.
+- Interested in **distributed systems, databases, and reliability engineering**.
+- Enjoy working close to **storage engines, consistency protocols, and system performance**.
 
 ---
 
-## 🎯 Technical Focus
+## Technical Focus
 
-What I like working on (and thinking about):
-
-- **Distributed consensus & replication**  
-  Raft, leader election, log replication, crash recovery
-
-- **Consistency & concurrency control**  
-  Linearizability, MVCC, Snapshot Isolation, request deduplication
-
-- **Storage systems & data layout**  
-  LSM-trees, compaction strategies, caching layers, indexing
-
-- **Production reliability**  
-  Fault tolerance, rolling upgrades, observability, debuggability
+- Distributed consensus & replication (**Raft**)
+- Consistency & concurrency control (**Linearizability**, **MVCC**)
+- Storage systems (**LSM-tree**, compaction, caching)
+- Backend reliability and fault tolerance
 
 ---
 
@@ -83,14 +72,3 @@ I enjoy reading systems papers, implementing ideas from scratch, and validating 
 <p align="center">
   <img src="https://github.com/YZhao-prog/YZhao-prog/blob/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </p>
-
----
-
-## 📌 What you’ll mostly find here
-
-- Distributed systems experiments (Raft, KV stores, sharding)
-- Storage engines and database internals
-- Backend infrastructure prototypes
-- Notes and code written to **understand trade-offs**, not just pass tests
-
-If you’re curious about any project, feel free to dig into the code — or just reach out 🙂

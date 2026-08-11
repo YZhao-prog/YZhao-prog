@@ -59,6 +59,23 @@ I enjoy reading systems papers, implementing ideas from scratch, and validating 
 
 ---
 
+## 🚀 Featured Projects
+
+### [SharkDB](https://github.com/YZhao-prog/SharkDB) — SQL database engine from scratch in Rust
+
+Hand-written parser → rule-based optimizer → parallel executor, over MVCC snapshot-isolation transactions and **three interchangeable storage engines** (in-memory B-tree, Bitcask-style log, LSM-tree) behind one trait.
+
+- **LSM-tree engine**: WAL + memtables, block-based SSTables with Bloom filters, leveled compaction — crash recovery **~16× faster** than full-log replay
+- **Optimizer**: constant folding, predicate pushdown, PK point-lookup rewriting (full scan → O(1) read), hash-join selection, `EXPLAIN`
+- **Parallel execution**: scoped-thread scan/filter/two-phase aggregation — **~2× end-to-end** on 200K-row analytical queries
+- Diagnosed & fixed a classic **LSM tombstone anti-pattern** in the MVCC layer: point lookups 163 → 20.7K QPS (**127×**)
+
+### [raft-kv](https://github.com/YZhao-prog/raft-kv) — fault-tolerant sharded KV store in Go
+
+Raft consensus (leader election, log replication, persistence, snapshot compaction) under network partitions; linearizable KV service with request dedup and at-most-once semantics; dynamic shard migration and rebalancing across Raft-backed replica groups.
+
+---
+
 ## 📊 GitHub Overview
 
 <div align="center">
